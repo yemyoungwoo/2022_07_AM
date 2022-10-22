@@ -225,6 +225,7 @@ public class Main {
 						e.printStackTrace();
 					}
 				}
+
 				if (articles.size() == 0) {
 					System.out.println("게시물이 없습니다");
 					continue;
