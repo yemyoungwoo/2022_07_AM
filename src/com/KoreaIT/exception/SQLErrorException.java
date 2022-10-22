@@ -8,7 +8,6 @@ public class SQLErrorException extends RuntimeException {
 		
 		this.origin = origin;
 	}
-
 	public Exception getOrigin() {
 		return origin;
 	}

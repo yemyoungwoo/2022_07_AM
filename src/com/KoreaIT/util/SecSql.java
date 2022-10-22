@@ -66,6 +66,7 @@ public class SecSql {
 		return sqlBuilder.toString();
 	}
 
+	
 	public static SecSql from(String sql) {
 		return new SecSql().append(sql);
 	}
