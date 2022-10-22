@@ -59,6 +59,7 @@ public class SecSql {
 		}
 
 		return stmt;
+		
 	}
 
 	public String getFormat() {

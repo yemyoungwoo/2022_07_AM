@@ -5,6 +5,7 @@ public class SQLErrorException extends RuntimeException {
 
 	public SQLErrorException(String message, Exception origin) {
 		super(message);
+		
 		this.origin = origin;
 	}
 
