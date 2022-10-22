@@ -1,4 +1,4 @@
-package com.KoreaIT.JP.test;
+package com.KoreaIT.JAM.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
