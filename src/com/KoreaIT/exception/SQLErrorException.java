@@ -12,3 +12,4 @@ public class SQLErrorException extends RuntimeException {
 		return origin;
 	}
 }
+//에러익셉션
