@@ -229,7 +229,6 @@ public class Main {
 				if (articles.size() == 0) {
 					System.out.println("게시물이 없습니다");
 					continue;
-
 				}
 				System.out.println("번호    |    제목");
 				

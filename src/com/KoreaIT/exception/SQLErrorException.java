@@ -12,4 +12,3 @@ public class SQLErrorException extends RuntimeException {
 		return origin;
 	}
 }
-//asd
