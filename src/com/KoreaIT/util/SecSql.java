@@ -71,3 +71,4 @@ public class SecSql {
 		return new SecSql().append(sql);
 	}
 }
+
